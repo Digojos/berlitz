@@ -100,5 +100,17 @@ subway
 station
 to go by
 
+4
+arrivals board - a sign that shows when planes, trains, buses come
+
+departures board - a sign that shows when planes, trains, buses go
 
 
+The sentence "It's a quarter to five!" means it's 4:45 (fifteen minutes before 5 o'clock).
+
+In English time expressions:
+
+"Quarter to" = 15 minutes before the hour
+"Quarter past" = 15 minutes after the hour
+"Half past" = 30 minutes after the hour
+So "quarter to five" = 4:45, whether it's 4:45 AM or 4:45 PM.
