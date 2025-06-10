@@ -114,3 +114,13 @@ In English time expressions:
 "Quarter past" = 15 minutes after the hour
 "Half past" = 30 minutes after the hour
 So "quarter to five" = 4:45, whether it's 4:45 AM or 4:45 PM.
+
+5
+ticket
+fare
+seats
+one-way
+round-trip
+
+How much is a business class ticket to ....
+How long does it take to 
